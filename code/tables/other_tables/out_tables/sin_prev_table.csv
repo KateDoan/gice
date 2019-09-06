@@ -1,0 +1,25 @@
+year,smoking_status,prevalence
+1992,Never Smoker,73.022
+1998,Never Smoker,77.150
+2001,Never Smoker,83.587
+2004,Never Smoker,79.464
+2007,Never Smoker,82.856
+2010,Never Smoker,76.012
+2013,Never Smoker,82.712
+2017,Never Smoker,80.886
+1992,Current Smoker,20.903
+1998,Current Smoker,17.248
+2001,Current Smoker,14.605
+2004,Current Smoker,14.247
+2007,Current Smoker,14.603
+2010,Current Smoker,15.717
+2013,Current Smoker,14.341
+2017,Current Smoker,14.148
+1992,Ex Smoker,6.074
+1998,Ex Smoker,5.602
+2001,Ex Smoker,1.807
+2004,Ex Smoker,6.289
+2007,Ex Smoker,2.541
+2010,Ex Smoker,8.271
+2013,Ex Smoker,2.948
+2017,Ex Smoker,4.966

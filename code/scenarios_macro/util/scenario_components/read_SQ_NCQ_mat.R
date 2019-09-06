@@ -1,0 +1,7 @@
+smallMatRates <- readRDS(file.path(smallMatDir, "sintrans_meanrates.rds"))
+NCprimer <- c(smallMatRates[69:136],rep(smallMatRates[136],2))
+CQprimer <- c(smallMatRates[1:68],rep(smallMatRates[68],2))
+QCprimer <- c(smallMatRates[137:204], rep(smallMatRates[204],2))
+rateNC <- matrix(rep(NCprimer,numYear), ncol=numYear)
+rateCQ <- matrix(rep(CQprimer,numYear), ncol=numYear)
+rateQC <- matrix(rep(QCprimer,numYear), ncol=numYear)
